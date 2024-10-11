@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personas>
+    <persona>
+        <nombre>Alberto</nombre>
+        <edad>10</edad>
+    </persona>
+    <persona>
+        <nombre>Sergio</nombre>
+        <edad>12</edad>
+    </persona>
+    <persona>
+        <nombre>Alba</nombre>
+        <edad>13</edad>
+    </persona>
+    <persona>
+        <nombre>Lydia</nombre>
+        <edad>14</edad>
+    </persona>
+</personas>

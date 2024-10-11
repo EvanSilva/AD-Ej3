@@ -32,10 +32,11 @@ public class Persona implements Serializable {
 
     @Override
     public String toString() {
-        return "Persona{" +
-                "nombre='" + nombre + '\'' +
-                ", edad=" + edad +
-                '}';
+        return
+                "\t<Persona> \n " +
+                "\t\t<Nombre>"+ getNombre() + "</nombre>\n"+
+                "\t\t<Edad>"+ getEdad() + "</Edad>\n"+
+                "\t</Persona>";
     }
 }
 
